@@ -1,4 +1,3 @@
-f = open("sample.txt")
-data = f.read()
-print(data)
+import os
 
+os.remove("sample.txt")

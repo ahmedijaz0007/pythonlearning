@@ -1,5 +1,5 @@
 Hi everyone
-we are leaning File i/o in Java
+we are learning File i/o in Java
 using Java
 I like programming in JavaHi everyone
 we are leaning File i/o in Python
